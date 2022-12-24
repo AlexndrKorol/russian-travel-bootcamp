@@ -13,19 +13,21 @@
 @media screen and (max-width: 1024px) {
   .cover {
     min-height: 640px;
-    margin: auto;
+    margin: 0;    
   }
 }
+
 @media screen and (max-width: 768px) {
   .cover {
     min-height: 480px;
-    margin: auto;
+    margin: 0;  
   }
 }
+
 @media screen and (max-width: 669px) {
   .cover {
     min-height: 200px;
-    margin: auto;
+    margin: 0; 
   }
 }
 

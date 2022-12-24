@@ -9,3 +9,9 @@
   text-transform: uppercase;
   margin: 0 0 12px;
 }
+
+@media screen and (max-width: 768px) {
+  .place__link-heading {
+    line-height: 1;
+  }
+}
